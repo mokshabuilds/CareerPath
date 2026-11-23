@@ -1,0 +1,8 @@
+{
+  "name": "Remix CareerPath",
+  "description": "CareerPath – Career Guidance and Information Portal for students in India covering careers, courses, colleges, entrance exams, scholarships, aptitude quiz, and an AI Career Counselor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
